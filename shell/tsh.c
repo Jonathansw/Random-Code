@@ -1,7 +1,7 @@
 /*
  * tsh - A tiny shell program with job control
  *
- * Jonathan Wang, jsw76, 12643800
+ * Jonathan Wang
  */
 #include <stdio.h>
 #include <stdlib.h>
